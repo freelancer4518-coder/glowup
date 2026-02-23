@@ -1,0 +1,5 @@
+{
+  "name": "GlowUp Unisex Salon",
+  "description": "Premium luxury salon website with online booking and admin management",
+  "requestFramePermissions": ["geolocation"]
+}
